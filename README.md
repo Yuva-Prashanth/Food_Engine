@@ -1,4 +1,4 @@
-# FOOD ENGINE
+# NutriSearch
 
 ![Image alt text](https://raw.githubusercontent.com/Yuva-Prashanth/Assets/main/food.jpg "Food")
 
